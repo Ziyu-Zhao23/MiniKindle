@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindleTests\\MiniKindleTests.csproj": {}
+    "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindleTests\\MiniKindleTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindleTests\\MiniKindleTests.csproj": {
+    "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindleTests\\MiniKindleTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindleTests\\MiniKindleTests.csproj",
+        "projectUniqueName": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindleTests\\MiniKindleTests.csproj",
         "projectName": "MiniKindleTests",
-        "projectPath": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindleTests\\MiniKindleTests.csproj",
-        "packagesPath": "C:\\Users\\howel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindleTests\\obj\\",
+        "projectPath": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindleTests\\MiniKindleTests.csproj",
+        "packagesPath": "C:\\Users\\Ziyu Zhao\\.nuget\\packages\\",
+        "outputPath": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindleTests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\howel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ziyu Zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\MiniKindle.csproj": {
-                "projectPath": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\MiniKindle.csproj"
+              "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\MiniKindle.csproj": {
+                "projectPath": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\MiniKindle.csproj"
               }
             }
           }
@@ -84,17 +88,21 @@
         }
       }
     },
-    "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\MiniKindle.csproj": {
+    "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\MiniKindle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\MiniKindle.csproj",
+        "projectUniqueName": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\MiniKindle.csproj",
         "projectName": "MiniKindle",
-        "projectPath": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\MiniKindle.csproj",
-        "packagesPath": "C:\\Users\\howel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\howel\\Documents\\K-State\\Fall 2022\\501\\MiniKindle\\MiniKindle\\MiniKindle\\obj\\",
+        "projectPath": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\MiniKindle.csproj",
+        "packagesPath": "C:\\Users\\Ziyu Zhao\\.nuget\\packages\\",
+        "outputPath": "E:\\Download\\CIS501\\EXAM1_BookLib\\MiniKindle\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\howel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ziyu Zhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
